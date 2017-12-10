@@ -42,3 +42,4 @@ Here is an example of what you will get attached to your message. It is found at
 ```
 
 For suggestions on imporvements or to contribute checkout the git repo: [botkit-ai on GitHub](https://github.com/third1020/botkit-api-ai)
+/*end*/

@@ -1,0 +1,23 @@
+{
+  "name": "botkit-ai",
+  "version": "0.2.2",
+  "description": "api.ai integration for Botkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidKarasek/botkit-ai.git"
+  },
+  "keywords": [
+    "api",
+    "ai",
+    "botkit"
+  ],
+  "author": "dj karasek",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^2.0.5"
+  }
+}
